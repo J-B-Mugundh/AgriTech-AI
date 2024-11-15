@@ -27,19 +27,6 @@ Make sure you star the repository and show your love to us💗
 Contributing in open source increases your opportunities to work with different projects and mentors, getting to know various insights and ideas. It is a platform where contributors grow together with a construvtive and a positive attitude.
 This repository also provides one such platforms where contributers come over and put their ideas  and make our website as interactive as much they can!
 
-<table>
-    <tr>
-      <th>Event Logo</th>
-      <th>Event Name</th>
-      <th>Event Description</th>
-    </tr>
-    <tr>
-        <td><img src="https://user-images.githubusercontent.com/63473496/213306279-338f7ce9-9a9f-4427-8c2a-3e344874498f.png#gh-dark-mode-only" width="200" height="auto" loading="lazy" alt="GSSoC 24"/></td>
-        <td>GirlScript Summer of Code 2024</td>
-        <td>GirlScript Summer of Code is a three-month-long Open Source Program conducted every summer by GirlScript Foundation. It is an initiative to bring more beginners to Open-Source Software Development. 
-    </tr>
-</table>
-
 ![GitHub issues](https://img.shields.io/github/issues/gdgmit/AgriTech-AI)
 ![GitHub forks](https://img.shields.io/github/forks/gdgmit/AgriTech-AI)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/gdgmit/AgriTech-AI)
